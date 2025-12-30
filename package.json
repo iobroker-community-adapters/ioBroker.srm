@@ -2,15 +2,9 @@
   "name": "iobroker.srm",
   "version": "1.0.0",
   "description": "This adapter allows you to connect to a Synology router",
-  "author": {
-    "name": "stephan stricker",
-    "email": "stephan.stricker@outlook.com"
-  },
+  "author": "stephan stricker <stephan.stricker@outlook.com>",
   "contributors": [
-    {
-      "name": "iobroker-community-adapters",
-      "email": "iobroker-community-adapters@gmx.de"
-    }
+    "iobroker-community-adapters <iobroker-community-adapters@gmx.de>"
   ],
   "homepage": "https://github.com/iobroker-community-adapters/ioBroker.srm",
   "license": "MIT",
