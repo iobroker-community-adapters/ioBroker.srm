@@ -89,7 +89,7 @@ jobs:
 
       - name: Create follow-up issue for enhancement
         if: steps.repo-check.outputs.is_iobroker_adapter == 'true'
-        uses: actions/github-script@v7
+        uses: actions/github-script@v8
         with:
           script: |
             const title = '🤖 Enhance ioBroker Copilot Instructions';
